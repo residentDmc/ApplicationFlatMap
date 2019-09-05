@@ -1,4 +1,4 @@
-package com.example.applicationflatmap;
+package com.example.applicationflatmap.MapFlap;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -22,6 +22,7 @@ import androidx.core.widget.NestedScrollView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.example.applicationflatmap.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

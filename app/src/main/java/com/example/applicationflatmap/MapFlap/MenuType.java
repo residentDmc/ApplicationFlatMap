@@ -1,4 +1,4 @@
-package com.example.applicationflatmap;
+package com.example.applicationflatmap.MapFlap;
 
 
 /**

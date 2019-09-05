@@ -1,4 +1,4 @@
-package com.example.applicationflatmap;
+package com.example.applicationflatmap.MapFlap;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

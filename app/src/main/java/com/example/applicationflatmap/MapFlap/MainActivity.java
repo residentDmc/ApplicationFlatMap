@@ -1,4 +1,4 @@
-package com.example.applicationflatmap;
+package com.example.applicationflatmap.MapFlap;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -6,6 +6,9 @@ import android.util.Log;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.applicationflatmap.R;
+import com.example.applicationflatmap.ServiceGenerator;
 
 import java.util.List;
 
@@ -18,7 +21,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
 
-import static com.example.applicationflatmap.Tools.setSystemBarColor;
+import static com.example.applicationflatmap.MapFlap.Tools.setSystemBarColor;
 
 public class MainActivity extends AppCompatActivity {
 

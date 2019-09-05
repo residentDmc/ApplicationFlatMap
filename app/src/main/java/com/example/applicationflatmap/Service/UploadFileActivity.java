@@ -1,10 +1,12 @@
-package com.example.applicationflatmap;
+package com.example.applicationflatmap.Service;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.applicationflatmap.R;
 
 public class UploadFileActivity extends AppCompatActivity {
 
